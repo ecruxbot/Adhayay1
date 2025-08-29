@@ -1,9 +1,20 @@
-# Adhyay1 Development Kit 🚀  
 
-Adhyay1 is an **all-in-one Embedded Systems, IoT, Robotics & TinyML learning kit**.  
+# Adhyay-1 Development Kit 🚀  
+
+![Made in India](https://img.shields.io/badge/Made%20in-India-orange?style=for-the-badge&logo=india)  
+![License](https://img.shields.io/badge/License-Apache%202.0%20%7C%20CC--BY%204.0-green?style=for-the-badge)  
+![Platform](https://img.shields.io/badge/Platform-Pico%20W%20%7C%20ESP32%20%7C%20Arduino%20%7C%20STM32-blue?style=for-the-badge)  
+![IoT](https://img.shields.io/badge/Supports-IoT%20%26%20TinyML-purple?style=for-the-badge)  
+![Status](https://img.shields.io/badge/Status-Active%20Development-brightgreen?style=for-the-badge)  
+
+---
+
+Adhyay-1 is an **all-in-one Embedded Systems, IoT, Robotics & TinyML learning kit**.  
 It comes with a carefully selected set of components and sensors that help learners move from **basics of electronics** to **advanced robotics and AI projects**.  
 
 ---
+
+
 
 ##  Items Included in Adhyay1 Kit  
 
