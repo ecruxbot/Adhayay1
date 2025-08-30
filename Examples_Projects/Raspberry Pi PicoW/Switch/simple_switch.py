@@ -1,12 +1,17 @@
-import board, time
-import adhyay1_libs; adhyay1_libs.mount_sd()
-
+import board
+import time
 from adhyay1_button import Adhyay1_PushButton
 
-button = Adhyay1_PushButton(board.GP21)
+# Initialize switch on GP21
+switch = Adhyay1_PushButton(board.GP21)
+
+print("Simple Switch Demo")
+print("Press the button to see the state...")
 
 while True:
-    if button.is_pressed():
-        print("Button Pressed!")
-    time.sleep(0.1)
-
+    if switch.is_pressed():
+        print("Button PRESSED")
+    else:
+        print("Button RELEASED")
+    
+    time.sleep(0.1)  # Small delay to avoid flooding output
