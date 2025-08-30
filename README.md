@@ -47,9 +47,13 @@ ESP 32
 ## 📚 Documentation  
 
 ### Pin Reference  
-![Preview](images/pin_reference_page1.png)  
+![Preview]
+(Documents/Pin Reference (Pinouts)/Pinouts_Pico_W.png)  
+(Documents/Pin Reference (Pinouts)/Pinouts_ESP32.png)
+(Documents/Pin Reference (Pinouts)/Pinouts_Nano.png)
+(Documents/Pin Reference (Pinouts)/Pinouts_STM32.png)
 
-👉 [Click here to open full PDF](https://github.com/ecruxbot/Adhayay1/blob/main/Documents/Pin_Reference_Adhyay1.pdf)
+👉 [Click here to open full PDF](https://github.com/ecruxbot/Adhayay1/blob/main/Documents/Pin%20Reference%20(Pinouts)/Pin_Reference_Adhyay1.pdf)
 
 
 
