@@ -26,6 +26,26 @@ It comes with a carefully selected set of components and sensors that help learn
 
 ---
 
+## Supported Controllers
+```
+Raspberry Pi Pico W
+
+```
+```
+Nano 33 BLE Sense Rev2
+```
+```
+STM 32
+
+```
+```
+ESP 32
+
+```
+
+
+
+Documents/Pin_Reference_Adhyay1.pdf
 
 
 ##  Items Included in Adhyay1 Kit  
