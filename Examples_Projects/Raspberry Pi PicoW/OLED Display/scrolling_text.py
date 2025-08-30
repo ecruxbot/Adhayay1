@@ -13,8 +13,8 @@ messages = [
     "OLED Display Demo",
     "Scrolling Text Effect",
     "Raspberry Pi Pico",
-    "MicroPython Rocks!",
-    "Hello World! 👋"
+    "CircuitPython Rocks!",
+    "Hello World! "
 ]
 
 def scroll_text(text, delay=0.2):
