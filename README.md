@@ -116,9 +116,9 @@ It comes with a carefully selected set of components and sensors that help learn
   - Compatible with 5V / 3.3V logic systems  
 
 - **Accessories**  
-  - All Required Tools is presend in kit
+  - All required tools are included in the kit
   - Jumper cables 
-  - J-Tag cables for Modules
+  - JTAG cables for Modules
   - Long & medium spacers for assembling  
   - Easy prototyping with plug-and-play components  
 
