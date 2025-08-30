@@ -1,3 +1,4 @@
+import adhyay1_libs; adhyay1_libs.mount_sd()
 import board
 import time
 from adhyay1_ldr import Adhyay1_LDR
