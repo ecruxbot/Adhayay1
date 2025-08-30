@@ -17,11 +17,6 @@ led.pulse((0, 255, 0), delay=0.02)
 print("Rainbow cycle")
 led.rainbow_cycle(wait=0.05)
 
-# Random colors
-print("Random colors")
-for _ in range(20):
-    led.random_colors(delay=0.1)
-
 # Breathing effect (custom implementation)
 print("Breathing effect (Blue)")
 for intensity in range(0, 255, 5):
