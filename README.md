@@ -124,7 +124,7 @@ Etc.
 
 ---
 
-## 📘 Learning Levels with Adhyay-1  
+##  Learning Levels with Adhyay-1  
 
 The **Adhyay-1 Development Kit** is structured into 3 progressive levels — **Basic, Intermediate, and Advanced** — so that learners can grow step by step from simple electronics to advanced robotics and TinyML projects.  
 
@@ -164,4 +164,4 @@ The **Adhyay-1 Development Kit** is structured into 3 progressive levels — **B
 Developed with ❤️ by **Ecruxbot Tech Pvt Ltd**  
 Product: **Adhyay-1 Development Kit**  
 
-🌐 Website: [www.ecruxbot.in](https://www.ecruxbot.in)  
+ Website: [www.ecruxbot.in](https://www.ecruxbot.in)  
