@@ -27,21 +27,16 @@ It comes with a carefully selected set of components and sensors that help learn
 ---
 
 ## Supported Controllers
-```
-Raspberry Pi Pico W
 
-```
-```
-Nano 33 BLE Sense Rev2
-```
-```
-STM 32
 
-```
-```
-ESP 32
+- Raspberry Pi Pico W
 
-```
+- Nano 33 BLE Sense Rev2
+
+- STM32
+
+- ESP32
+
 
 
 ##  Documentation  
@@ -53,7 +48,14 @@ ESP 32
 | ![Pico W](Documents/Pinouts/Pinouts_Pico_W.png) | ![ESP32](Documents/Pinouts/Pinouts_ESP32.png) | ![Nano](Documents/Pinouts/Pinouts_Nano.png) | ![STM32](Documents/Pinouts/Pinouts_STM32.png) |
 
 
-👉 [Click here to open full PDF](https://github.com/ecruxbot/Adhayay1/blob/main/Documents/Pin%20Reference%20(Pinouts)/Pin_Reference_Adhyay1.pdf)
+👉 [Click here to open full PDF](https://github.com/ecruxbot/Adhayay1/blob/main/Documents/Pinouts/Pin_Reference_Adhyay1.pdf)
+
+
+##  Quick Links
+- [Pinout References (PDF)](Documents/Pinouts/Pin_Reference_Adhyay1.pdf)
+- [Assembly Guide](Documents/Assembly_Guide.pdf)
+- [Examples](examples/)
+- [License](LICENSE)
 
 
 
@@ -79,10 +81,7 @@ ESP 32
 18. Jumper Cables 
 19. J-Tag Cables  
 20. Long Spacers  
-21. Medium Spacers
-22. ...
-23. ...
-Etc.
+21. Medium Spacers and more.
 
 ---
 
