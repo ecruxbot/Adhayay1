@@ -37,7 +37,7 @@ It comes with a carefully selected set of components and sensors that help learn
 
 - ESP32
 
-
+---
 
 ##  Documentation  
 
@@ -51,13 +51,14 @@ It comes with a carefully selected set of components and sensors that help learn
 👉 [Click here to open full PDF](https://github.com/ecruxbot/Adhayay1/blob/main/Documents/Pinouts/Pin_Reference_Adhyay1.pdf)
 
 
+---
 ##  Quick Links
+
 - [Pinout References (PDF)](Documents/Pinouts/Pin_Reference_Adhyay1.pdf)
-- [Assembly Guide](Documents/Assembly_Guide.pdf)
-- [Examples](examples/)
+- [Examples](Examples_Projects/)
 - [License](LICENSE)
 
-
+---
 
 ##  Items Included in Adhyay1 Kit  
 
