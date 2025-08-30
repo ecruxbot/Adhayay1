@@ -1,3 +1,4 @@
+import adhyay1_libs; adhyay1_libs.mount_sd()
 import board
 import time
 from adhyay1_speaker import Adhyay1_Speaker
