@@ -37,9 +37,7 @@ It comes with a carefully selected set of components and sensors that help learn
 
 - ESP32
 
----
-
-##  Documentation  
+  
 
 ###  Pinout References  
 
