@@ -4,7 +4,7 @@ import time
 from adhyay1_led import Adhyay1_LED
 
 # Initialize LED strip with 8 LEDs
-led = Adhyay1_LED(board.GP27, num_leds=8, brightness=0.3)
+led = Adhyay1_LED(board.GP27, num_leds=1, brightness=0.3)
 
 print("LED Patterns Demo")
 
