@@ -1,15 +1,40 @@
-import board, time
-import adhyay1_libs; adhyay1_libs.mount_sd()
+import board
+import time
+from adhyay1_led import Adhyay1_LED
 
-import adhyay1_led
+# Initialize LED on GP27 with 1 LED and 50% brightness
+led = Adhyay1_LED(board.GP27, num_leds=1, brightness=0.5)
 
-led = adhyay1_led.Adhyay1_LED(board.GP27)
+print("Simple LED Control - Basic Colors")
 
-while True:
-    led.on((255, 0, 0))  # Red
-    time.sleep(1)
-    led.on((0, 255, 0))  # Green
-    time.sleep(1)
-    led.on((0, 0, 255))  # Blue
-    time.sleep(1)
+# Test basic colors
+led.on((255, 0, 0))    # Red
+print("Red")
+time.sleep(1)
 
+led.on((0, 255, 0))    # Green
+print("Green")
+time.sleep(1)
+
+led.on((0, 0, 255))    # Blue
+print("Blue")
+time.sleep(1)
+
+led.on((255, 255, 0))  # Yellow
+print("Yellow")
+time.sleep(1)
+
+led.on((255, 0, 255))  # Magenta
+print("Magenta")
+time.sleep(1)
+
+led.on((0, 255, 255))  # Cyan
+print("Cyan")
+time.sleep(1)
+
+led.on((255, 255, 255))  # White
+print("White")
+time.sleep(1)
+
+led.off()
+print("Test completed")
