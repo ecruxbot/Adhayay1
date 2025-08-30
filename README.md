@@ -44,8 +44,13 @@ ESP 32
 ```
 
 
+## 📚 Documentation  
 
-📑 [Pin Reference (Adhyay-1)](Documents/Pin_Reference_Adhyay1.pdf)
+### Pin Reference  
+![Preview](images/pin_reference_page1.png)  
+
+👉 [Click here to open full PDF](https://github.com/ecruxbot/Adhayay1/blob/main/Documents/Pin_Reference_Adhyay1.pdf)
+
 
 
 ##  Items Included in Adhyay1 Kit  
