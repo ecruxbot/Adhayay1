@@ -47,8 +47,7 @@ ESP 32
 ## 📚 Documentation  
 
 ### Pin Reference  
-![Preview]
-(Documents/Pin Reference (Pinouts)/Pinouts_Pico_W.png)  
+![Preview](Documents/Pin Reference (Pinouts)/Pinouts_Pico_W.png)  
 (Documents/Pin Reference (Pinouts)/Pinouts_ESP32.png)
 (Documents/Pin Reference (Pinouts)/Pinouts_Nano.png)
 (Documents/Pin Reference (Pinouts)/Pinouts_STM32.png)
