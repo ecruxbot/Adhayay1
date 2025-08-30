@@ -1,4 +1,4 @@
-# Adhyay-1 Development Kit 🚀  
+# Adhyay-1 Development Kit 
 
 ![Made in India](https://img.shields.io/badge/Made%20in-India-orange?style=for-the-badge&logo=india) 
 ![Company](https://img.shields.io/badge/Ecruxbot-Tech%20Pvt%20Ltd-red?style=for-the-badge&logo=github) 
@@ -45,7 +45,7 @@ ESP 32
 
 
 
-Documents/Pin_Reference_Adhyay1.pdf
+📑 [Pin Reference (Adhyay-1)](Documents/Pin_Reference_Adhyay1.pdf)
 
 
 ##  Items Included in Adhyay1 Kit  
