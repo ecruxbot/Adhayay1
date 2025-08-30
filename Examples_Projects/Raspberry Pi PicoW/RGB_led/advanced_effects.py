@@ -5,7 +5,7 @@ import random
 from adhyay1_led import Adhyay1_LED
 
 # Initialize LED strip with 12 LEDs
-led = Adhyay1_LED(board.GP27, num_leds=12, brightness=0.4)
+led = Adhyay1_LED(board.GP27, num_leds=1, brightness=0.4)
 
 print("Advanced LED Effects")
 
