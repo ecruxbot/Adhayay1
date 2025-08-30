@@ -44,13 +44,14 @@ ESP 32
 ```
 
 
-## 📚 Documentation  
+##  Documentation  
 
-### Pin Reference  
-![Preview](Documents/Pin Reference (Pinouts)/Pinouts_Pico_W.png)  
-(Documents/Pin Reference (Pinouts)/Pinouts_ESP32.png)
-(Documents/Pin Reference (Pinouts)/Pinouts_Nano.png)
-(Documents/Pin Reference (Pinouts)/Pinouts_STM32.png)
+###  Pinout References  
+
+| Pico W | ESP32 | Arduino Nano | STM32 |
+|--------|-------|--------------|-------|
+| ![Pico W](Documents/Pin%20Reference%20(Pinouts)/Pinouts_Pico_W.png) | ![ESP32](Documents/Pin%20Reference%20(Pinouts)/Pinouts_ESP32.png) | ![Nano](Documents/Pin%20Reference%20(Pinouts)/Pinouts_Nano.png) | ![STM32](Documents/Pin%20Reference%20(Pinouts)/Pinouts_STM32.png) |
+
 
 👉 [Click here to open full PDF](https://github.com/ecruxbot/Adhayay1/blob/main/Documents/Pin%20Reference%20(Pinouts)/Pin_Reference_Adhyay1.pdf)
 
