@@ -23,10 +23,12 @@ try:
         gyro = mpu.get_gyro()
         
         # Log data
-        print(f"{current_time:5.1f}s\t{accel[0]:6.2f}\t{accel[1]:6.2f}\t{accel[2]:6.2f}\t"
-              f"{gyro[0]:6.1f}\t{gyro[1]:6.1f}\t{gyro[2]:6.1f}")
+        print("{:.1f}s\t{:.2f}\t{:.2f}\t{:.2f}\t{:.1f}\t{:.1f}\t{:.1f}".format(
+            current_time, accel[0], accel[1], accel[2], gyro[0], gyro[1], gyro[2]
+        ))
         
         time.sleep(0.5)
 
 except KeyboardInterrupt:
     print("\nMotion logging stopped")
+
