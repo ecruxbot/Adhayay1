@@ -7,7 +7,7 @@ oled = Adhyay1_OLED(board.GP4, board.GP5)
 
 # Play the animation (this will run forever in loop)
 oled.show_sprite_animation(
-    image_path="/sd/animation/cat_jump_10.bmp",
+    image_path="/sd/animation/ball_shape__frames-60_128x64.bmp",
     sprite_size=(128, 64),
     position=(0, 0),
     frame_count=10,
