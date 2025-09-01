@@ -14,7 +14,7 @@ try:
     # This version will play until you press Ctrl+C
     
     oled.show_sprite_animation(
-        image_path="/sd/animation/cat_jump_10.bmp",
+        image_path="/sd/animation/circular_32.bmp",
         sprite_size=(128, 64),
         position=(0, 0),
         frame_count=10,
