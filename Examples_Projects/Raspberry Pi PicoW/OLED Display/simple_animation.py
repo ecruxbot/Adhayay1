@@ -7,10 +7,10 @@ from adhyay1_oled import Adhyay1_OLED
 oled = Adhyay1_OLED(sda_pin=board.GP4, scl_pin=board.GP5)
 
 print("Simple GIF Animation")
-print("Displaying cat_jump_10.bmp animation...")
+print("Displaying thank_you_frames.bmp animation...")
 
 # Animation configuration
-ANIMATION_FILE = "/sd/animation/cat_jump_10.bmp"
+ANIMATION_FILE = "/sd/animation/thank_you_frames-4_128x64.bmp"
 FRAME_COUNT = 10  # Total frames in the sprite sheet
 SPEED = 0.15      # Seconds per frame (adjust for speed)
 
