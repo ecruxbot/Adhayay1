@@ -1,6 +1,6 @@
 ---
 
-## 🤖 Robot Assembly Guide  
+## Robot Assembly Guide  
 
 The Adhyay-1 Kit comes with a **partially assembled robot base**, including:  
 - Metal/Plastic **chassis**  
@@ -10,7 +10,7 @@ The Adhyay-1 Kit comes with a **partially assembled robot base**, including:
 
 Learners can then expand and assemble the complete robot with sensors and modules using the following steps:
 
-### 🛠️ Step-by-Step Assembly  
+### Step-by-Step Assembly  
 
 1. **Servo Motor**  
    - Fix the servo motor on the front/top side of the chassis.  
@@ -50,4 +50,4 @@ Learners can then expand and assemble the complete robot with sensors and module
 
 ---
 
-✅ With these steps, students can quickly assemble a **fully functional learning robot** and then expand into **IoT, Robotics, and TinyML projects**.  
+   With these steps, students can quickly assemble a **fully functional learning robot** and then expand into **IoT, Robotics, and TinyML projects**.  
