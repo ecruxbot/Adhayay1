@@ -80,7 +80,10 @@ It comes with a carefully selected set of components and sensors that help learn
 18. Jumper Cables 
 19. J-Tag Cables  
 20. Long Spacers  
-21. Medium Spacers and more.
+21. Medium Spacers with Tools.
+22. All Microcontrollers with Programming Cables
+23. SD Card
+24. and more...
 
 ---
 
