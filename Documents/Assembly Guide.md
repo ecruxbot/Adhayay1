@@ -3,7 +3,7 @@
 ## Robot Assembly Guide  
 
 The Adhyay-1 Kit comes with a **partially assembled robot base**, including:  
-- Metal/Plastic **chassis**  
+- Acrylic **chassis**  
 - Two **DC motors** with **wheels & brackets**  
 - **Caster wheel** for balance  
 - **Adhyay-1 Expansion Board (Main PCB)** pre-mounted  
