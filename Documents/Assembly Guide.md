@@ -1,4 +1,3 @@
----
 
 ## Robot Assembly Guide  
 
@@ -8,11 +7,9 @@ The Adhyay-1 Kit comes with a **partially assembled robot base**, including:
 - **Caster wheel** for balance  
 - **Adhyay-1 Expansion Board (Main PCB)** pre-mounted
 
----
 
 Learners can then expand and assemble the complete robot with sensors and modules using the following steps:
 
----
 ### Step-by-Step Assembly  
 
 1. **Servo Motor**  
@@ -51,6 +48,5 @@ Learners can then expand and assemble the complete robot with sensors and module
    - Verify all sensors/modules are tightly secured.  
    - Double-check wiring before switching ON.  
 
----
 
    With these steps, students can quickly assemble a **fully functional learning robot** and then expand into **IoT, Robotics, and TinyML projects**.  
