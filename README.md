@@ -4,16 +4,13 @@
 ![Company](https://img.shields.io/badge/Ecruxbot-Tech%20Pvt%20Ltd-red?style=for-the-badge&logo=github) 
 ![Product](https://img.shields.io/badge/Product-Adhyay--1-blue?style=for-the-badge&logo=robotframework)  
 <br>
-
 ![License](https://img.shields.io/badge/License-Apache%202.0%20%7C%20CC--BY%204.0-green?style=for-the-badge) 
 ![Status](https://img.shields.io/badge/Status-Active%20Development-brightgreen?style=for-the-badge)  
 <br>
-
 ![Platform](https://img.shields.io/badge/Platform-Pico%20W%20%7C%20ESP32%20%7C%20Arduino%20%7C%20STM32-blue?style=for-the-badge&logo=raspberrypi) 
 ![IoT](https://img.shields.io/badge/Supports-IoT-purple?style=for-the-badge&logo=cloud) 
 ![TinyML](https://img.shields.io/badge/Supports-TinyML-yellow?style=for-the-badge&logo=tensorflow)  
 <br>
-
 ![Education](https://img.shields.io/badge/Focus-Education%20%26%20Projects-ff69b4?style=for-the-badge&logo=bookstack) 
 ![Community](https://img.shields.io/badge/Community-Students%20%7C%20Makers%20%7C%20Educators-lightblue?style=for-the-badge&logo=people) 
 ![Made with Love](https://img.shields.io/badge/Made%20with-%E2%9D%A4-red?style=for-the-badge)  
