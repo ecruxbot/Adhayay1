@@ -11,7 +11,7 @@ print("Displaying thank_you_frames.bmp animation...")
 
 # Animation configuration
 ANIMATION_FILE = "/sd/animation/thank_you_frames-4_128x64.bmp"
-FRAME_COUNT = 10  # Total frames in the sprite sheet
+FRAME_COUNT = 4  # Total frames in the sprite sheet
 SPEED = 0.15      # Seconds per frame (adjust for speed)
 
 try:
