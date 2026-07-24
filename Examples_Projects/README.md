@@ -1,4 +1,4 @@
-# Example Projects
+# Example Codes
 
 This folder contains sample codes for all microcontroller platforms supported by the Adhyay-1 robotics kit.
 
